@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "CERT and alerts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Organizations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Informatives and blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CTF, Training L3g@l and G@mes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-legal Cyber activism"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IT Hacking DB list"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AT Hacking list"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses and Guides Sites"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OS - Operation Systens"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:17:58.111Z",
+    "original_repository": "fabionoth/awesome-cyber-security",
+    "original_repository_sha": "165452067f01d849cd3881d476a1be4ca88937f0",
+    "enhanced_repository": "enhansome/enhansome-cyber-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cyber Security with stars"
+  }
+}
