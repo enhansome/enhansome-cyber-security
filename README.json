@@ -1,7 +1,206 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BetterMotherFucking CTF",
+          "description": "MotherfuckingCTF inspired platform. But better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189399681,
+            "language": "Python",
+            "last_commit": "2020-11-02T16:22:52Z",
+            "owner": "qmemcpy",
+            "repo": "bettermotherfuckingctf",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBCTF",
+          "description": "Facebook Capture the Flag",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53877810,
+            "language": "Hack",
+            "last_commit": "2023-12-05T12:29:38Z",
+            "owner": "facebookarchive",
+            "repo": "fbctf",
+            "stars": 6549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSS – OopsSec Store",
+          "description": "Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1118475908,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T07:13:45Z",
+            "owner": "kOaDT",
+            "repo": "oss-oopssec-store",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "CTF, Training L3g@l and G@mes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "O Tao do Desenvolvimento Seguro",
+          "description": "[PT-BR] Safe Development Guide",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63271200,
+            "language": "Python",
+            "last_commit": "2022-07-26T14:00:37Z",
+            "owner": "lopes",
+            "repo": "seguranca",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offensive CyberSec Cheat Sheet",
+          "description": "A comprehensive and accessible cheat sheet for offensive cybersecurity commands and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1208442920,
+            "language": "HTML",
+            "last_commit": "2026-08-19T16:33:59Z",
+            "owner": "AmitR12",
+            "repo": "Cybersec",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Courses and Guides Sites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beelzebub",
+          "description": "A secure low code honeypot framework, leveraging AI for System Virtualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 490028114,
+            "language": "Go",
+            "last_commit": "2026-08-24T06:41:15Z",
+            "owner": "beelzebub-labs",
+            "repo": "beelzebub",
+            "stars": 2161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdSec",
+          "description": "Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264154402,
+            "language": "Go",
+            "last_commit": "2026-08-24T12:22:42Z",
+            "owner": "crowdsecurity",
+            "repo": "crowdsec",
+            "stars": 14635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidraMCP",
+          "description": "Autonomous reverse engineering with Ghidra using Model Context Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953335676,
+            "language": "Java",
+            "last_commit": "2025-06-23T04:18:18Z",
+            "owner": "LaurieWired",
+            "repo": "GhidraMCP",
+            "stars": 9852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rengine",
+          "description": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260907244,
+            "language": "HTML",
+            "last_commit": "2026-07-13T02:47:39Z",
+            "owner": "yogeshojha",
+            "repo": "rengine",
+            "stars": 8792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UUSEC WAF",
+          "description": "Industry-leading free, high-performance, AI and semantic technology Web Application Firewall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538093499,
+            "language": "Shell",
+            "last_commit": "2026-08-23T12:03:14Z",
+            "owner": "Safe3",
+            "repo": "uusec-waf",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeek2es",
+          "description": "Converts Zeek logs to Elastic/OpenSearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 442491504,
+            "language": "Python",
+            "last_commit": "2022-08-18T13:23:02Z",
+            "owner": "corelight",
+            "repo": "zeek2es",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzureFox",
+          "description": "Azure attack-path and privilege-chaining CLI for surfacing high-impact paths, usable pivots, and trust boundaries to break.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177991555,
+            "language": "Python",
+            "last_commit": "2026-06-22T14:06:31Z",
+            "owner": "TacoRocket",
+            "repo": "AzureFox",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:15:17.812Z",
+    "last_updated": "2026-08-24T14:08:35.173Z",
     "original_repository": "fabionoth/awesome-cyber-security",
     "original_repository_id": 92865964,
     "original_repository_sha": "ae9c998f66f07ed1e112eb94569fe79dde7980b5",
