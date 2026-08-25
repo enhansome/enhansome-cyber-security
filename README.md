@@ -1,6 +1,6 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,662 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,697 | 🐛 106 | 📅 2026-08-21
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
@@ -157,11 +157,11 @@ List links and description
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,164 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-24   | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
 | [CrackStation](https://crackstation.net/)                                                          | Uses lookup tables to crack password hashes.                                                                                                               |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,638 \| 🐛 284 \| 🌐 Go \| 📅 2026-08-24 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,640 \| 🐛 284 \| 🌐 Go \| 📅 2026-08-24 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                             | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                  | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                  | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,858 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,859 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                       | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                | Pentesting framework used by Kali Linux.                                                                                                                   |

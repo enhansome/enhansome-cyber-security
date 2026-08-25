@@ -117,7 +117,7 @@
             "last_commit": "2026-08-24T15:05:44Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14638
+            "stars": 14640
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9858
+            "stars": 9859
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:11:43.645Z",
+    "last_updated": "2026-08-25T05:59:17.586Z",
     "original_repository": "fabionoth/awesome-cyber-security",
     "original_repository_id": 92865964,
     "original_repository_sha": "ae9c998f66f07ed1e112eb94569fe79dde7980b5",
