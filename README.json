@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1118475908,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T07:13:45Z",
+            "last_commit": "2026-08-24T21:05:34Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 40
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-24T06:41:15Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2161
+            "stars": 2164
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 264154402,
             "language": "Go",
-            "last_commit": "2026-08-24T12:22:42Z",
+            "last_commit": "2026-08-24T15:05:44Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14635
+            "stars": 14638
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9852
+            "stars": 9858
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:35.173Z",
+    "last_updated": "2026-08-25T03:11:43.645Z",
     "original_repository": "fabionoth/awesome-cyber-security",
     "original_repository_id": 92865964,
     "original_repository_sha": "ae9c998f66f07ed1e112eb94569fe79dde7980b5",
