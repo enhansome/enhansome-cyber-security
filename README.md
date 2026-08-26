@@ -1,10 +1,10 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,697 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,963 | 🐛 106 | 📅 2026-08-21
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,792 | 🐛 315 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
+Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,795 | 🐛 315 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) ⭐ 1,930 | 🐛 15 | 📅 2026-08-20. You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
@@ -103,7 +103,7 @@ List links and description
 | [Trailofbits Github](https://trailofbits.github.io/ctf/)                                                               | CTF Field Guide                                                                                                                                        |
 | [Shellter](https://shellterlabs.com)                                                                                   | Social Network focused on information security                                                                                                         |
 | [CyberPython](https://pythoncyber.go.ro)                                                                               | Practical cyber security challenges with own research                                                                                                  |
-| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 40 \| 🐛 9 \| 🌐 TypeScript \| 📅 2026-08-24       | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
+| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 40 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-08-25       | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
 
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 
@@ -157,11 +157,11 @@ List links and description
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,164 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-24   | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
 | [CrackStation](https://crackstation.net/)                                                          | Uses lookup tables to crack password hashes.                                                                                                               |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,640 \| 🐛 284 \| 🌐 Go \| 📅 2026-08-24 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,647 \| 🐛 282 \| 🌐 Go \| 📅 2026-08-25 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                             | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                  | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                  | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,859 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,861 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                       | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                | Pentesting framework used by Kali Linux.                                                                                                                   |
@@ -173,11 +173,11 @@ List links and description
 | [Pixee](https://pixee.ai)                                                                          | Finds security & performance issues in code and creates merge-ready pull requests.                                                                         |
 | [PunkSPIDER](https://www.punkspider.org)                                                           | Web application vulnerability search engine.                                                                                                               |
 | [Vulert](https://www.vulert.com)                                                                   | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more. |
-| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,792 \| 🐛 162 \| 🌐 HTML \| 📅 2026-07-13     | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
+| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,794 \| 🐛 162 \| 🌐 HTML \| 📅 2026-07-13     | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
 | [Sonarqube](https://www.sonarqube.org/)                                                            | Static code reviewer.                                                                                                                                      |
 | [Stellastra](https://stellastra.com/email-deliverability-check)                                    | Email authentication and security issues scanner.                                                                                                          |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)                                                | Network packet analysis tool.                                                                                                                              |
-| [UUSEC WAF](https://github.com/Safe3/uusec-waf) ⭐ 1,704 \| 🐛 83 \| 🌐 Shell \| 📅 2026-08-23      | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall.                                                              |
+| [UUSEC WAF](https://github.com/Safe3/uusec-waf) ⭐ 1,703 \| 🐛 83 \| 🌐 Shell \| 📅 2026-08-23      | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall.                                                              |
 | [w3af](http://w3af.org/)                                                                           | Web Application Attack and Audit Framework.                                                                                                                |
 | [Wazuh](https://wazuh.com)                                                                         | Security monitoring solution for threat detection and compliance.                                                                                          |
 | [Wireshark](https://www.wireshark.org/)                                                            | Network protocol analyzer.                                                                                                                                 |
@@ -195,4 +195,4 @@ List links and description
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
