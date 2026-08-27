@@ -30,7 +30,7 @@
             "last_commit": "2023-12-05T12:29:38Z",
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6549
+            "stars": 6548
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-24T06:41:15Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2164
+            "stars": 2166
           }
         },
         {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 264154402,
             "language": "Go",
-            "last_commit": "2026-08-25T14:32:20Z",
+            "last_commit": "2026-08-26T18:37:07Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14647
+            "stars": 14657
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9861
+            "stars": 9873
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-07-13T02:47:39Z",
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8794
+            "stars": 8797
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-23T12:03:14Z",
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1703
+            "stars": 1704
           }
         },
         {
@@ -200,9 +200,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:16:28.741Z",
-    "original_repository": "fabionoth/awesome-cyber-security",
-    "original_repository_id": 92865964,
+    "last_updated": "2026-08-27T11:31:14.889Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 92865964,
+      "language": null,
+      "last_commit": "2026-08-20T21:55:17Z",
+      "owner": "fabionoth",
+      "repo": "awesome-cyber-security",
+      "stars": 1930
+    },
     "original_repository_sha": "ae9c998f66f07ed1e112eb94569fe79dde7980b5",
     "enhanced_repository": "enhansome/enhansome-cyber-security",
     "enhanced_repository_description": null,
