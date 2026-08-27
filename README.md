@@ -1,10 +1,10 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,376 | 🐛 105 | 📅 2026-08-21
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,797 | 🐛 313 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
+Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,798 | 🐛 313 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) ⭐ 1,930 | 🐛 15 | 📅 2026-08-20. You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
@@ -161,7 +161,7 @@ List links and description
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                             | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                  | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                  | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,873 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,874 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                       | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                | Pentesting framework used by Kali Linux.                                                                                                                   |
