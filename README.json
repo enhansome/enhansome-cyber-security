@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MotherFuckingCTF inspired platform. But better.",
+            "homepage": null,
             "id": 189399681,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-11-02T16:22:52Z",
+            "open_issues": 0,
             "owner": "qmemcpy",
             "repo": "bettermotherfuckingctf",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -26,12 +31,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Platform to host Capture the Flag competitions",
+            "homepage": null,
             "id": 53877810,
             "language": "Hack",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-05T12:29:38Z",
+            "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6548
+            "stars": 6548,
+            "topics": [
+              "ctf",
+              "ctf-framework"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -42,12 +55,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security training for the apps you actually ship. Open your browser and start hacking.",
+            "homepage": "https://koadt.github.io/oss-oopssec-store/roadmap/",
             "id": 1118475908,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:15:33Z",
+            "open_issues": 8,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "appsec",
+              "ctf",
+              "cybersecurity",
+              "mcp-security",
+              "nextjs",
+              "owasp-top10",
+              "prisma",
+              "prompt-injection",
+              "react",
+              "security-training",
+              "supply-chain-security",
+              "typescript",
+              "vulnerable-web-app",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         }
@@ -64,12 +97,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Guia de desenvolvimento seguro",
+            "homepage": null,
             "id": 63271200,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-26T14:00:37Z",
+            "open_issues": 0,
             "owner": "lopes",
             "repo": "seguranca",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "autenticacao",
+              "criptografia",
+              "guia",
+              "log",
+              "seguranca",
+              "senha"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -80,12 +125,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1208442920,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-19T16:33:59Z",
+            "open_issues": 0,
             "owner": "AmitR12",
             "repo": "Cybersec",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cheatsheet",
+              "cybersecurity",
+              "infosec",
+              "oscp",
+              "pentesting",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         }
@@ -102,12 +159,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure low code deception runtime framework, leveraging AI for System Virtualization.",
+            "homepage": "https://docs.beelzebub.ai",
             "id": 490028114,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T06:41:15Z",
+            "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2167
+            "stars": 2167,
+            "topics": [
+              "acis",
+              "agentic-ai-security",
+              "cloudnative",
+              "cloudsecurity",
+              "cybersecurity",
+              "deception",
+              "decoys",
+              "framework",
+              "go",
+              "honeypot",
+              "llama",
+              "llm",
+              "llm-honeypot",
+              "llm-security",
+              "mcp",
+              "mcp-honeypot",
+              "preemptive-cybersecurity",
+              "research-project",
+              "security",
+              "whitehat"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -118,12 +201,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+            "homepage": "https://crowdsec.net",
             "id": 264154402,
             "language": "Go",
-            "last_commit": "2026-08-26T18:37:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:54:12Z",
+            "open_issues": 287,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14662
+            "stars": 14667,
+            "topics": [
+              "attacks-prevention",
+              "detection",
+              "ids",
+              "ips",
+              "linux",
+              "protection",
+              "security",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -134,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server for Ghidra",
+            "homepage": null,
             "id": 953335676,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-23T04:18:18Z",
+            "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9876
+            "stars": 9882,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -150,12 +252,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.",
+            "homepage": "https://yogeshojha.github.io/rengine/",
             "id": 260907244,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-13T02:47:39Z",
+            "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8800
+            "stars": 8800,
+            "topics": [
+              "bug-bounty",
+              "bugbounty",
+              "hacking",
+              "information-gathering",
+              "infosec",
+              "osint",
+              "penetration-testing",
+              "pentesting",
+              "recon",
+              "recon-engine",
+              "reconnaissance",
+              "rengine",
+              "scanner",
+              "scanner-web",
+              "scanning",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -166,12 +290,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.",
+            "homepage": "https://waf.uusec.com",
             "id": 538093499,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-23T12:03:14Z",
+            "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1704
+            "stars": 1704,
+            "topics": [
+              "api-gateway",
+              "api-security",
+              "application-security",
+              "data-mask",
+              "ddos",
+              "hips",
+              "letsencrypt",
+              "modsecurity",
+              "owasp",
+              "rasp",
+              "security",
+              "sql-injection",
+              "uusec",
+              "uusec-waf",
+              "uuwaf",
+              "waap",
+              "waf",
+              "web-application-firewall",
+              "web-security-gateway",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -182,12 +332,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python application to filter and transfer Zeek logs to Elastic/OpenSearch+Humio.  This app can also output pure JSON logs to stdout for further processing!",
+            "homepage": null,
             "id": 442491504,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-08-18T13:23:02Z",
+            "open_issues": 0,
             "owner": "corelight",
             "repo": "zeek2es",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "elasticsearch",
+              "humio",
+              "kibana",
+              "opensearch",
+              "python",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         },
@@ -198,12 +360,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python CLI for offensive-focused Azure situational awareness and management-plane reconnaissance.",
+            "homepage": null,
             "id": 1177991555,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T14:06:31Z",
+            "open_issues": 5,
             "owner": "TacoRocket",
             "repo": "AzureFox",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "attack-path",
+              "azure",
+              "azure-cli",
+              "azure-security",
+              "cloud-pentesting",
+              "cloud-recon",
+              "cloud-security",
+              "iam",
+              "offensive-security",
+              "pentesting",
+              "privilege-escalation",
+              "reconnaissance",
+              "red-team",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
         }
@@ -212,15 +394,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:19:02.871Z",
+    "last_updated": "2026-08-29T04:26:55.080Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+      "homepage": null,
       "id": 92865964,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-20T21:55:17Z",
+      "open_issues": 15,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1931
+      "stars": 1932,
+      "topics": [
+        "certification",
+        "cyber-security",
+        "hacking",
+        "operation-systens",
+        "papers-published"
+      ]
     },
     "original_repository_sha": "ae9c998f66f07ed1e112eb94569fe79dde7980b5",
     "enhanced_repository": "enhansome/enhansome-cyber-security",
