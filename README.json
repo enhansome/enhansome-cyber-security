@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6549,
+            "stars": 6547,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T11:09:08Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-01T15:21:56Z",
+            "open_issues": 291,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14698,
+            "stars": 14717,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9907,
+            "stars": 9915,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -261,7 +261,7 @@
             "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8805,
+            "stars": 8807,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:46:56.221Z",
+    "last_updated": "2026-09-02T07:04:42.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -406,7 +406,7 @@
       "open_issues": 15,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1936,
+      "stars": 1938,
       "topics": [
         "certification",
         "cyber-security",
