@@ -1,10 +1,10 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,131 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,500 | 🐛 105 | 📅 2026-09-02
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,821 | 🐛 321 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
+Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,822 | 🐛 321 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) ⭐ 1,938 | 🐛 15 | 📅 2026-08-20. You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
@@ -155,13 +155,13 @@ List links and description
 
 | Link                                                                                               | Description                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,165 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-31   | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
+| [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,167 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-31   | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
 | [CrackStation](https://crackstation.net/)                                                          | Uses lookup tables to crack password hashes.                                                                                                               |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,717 \| 🐛 291 \| 🌐 Go \| 📅 2026-09-01 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,732 \| 🐛 296 \| 🌐 Go \| 📅 2026-09-02 | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                             | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                  | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                  | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,915 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,934 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                     | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                       | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                | Pentesting framework used by Kali Linux.                                                                                                                   |
@@ -173,7 +173,7 @@ List links and description
 | [Pixee](https://pixee.ai)                                                                          | Finds security & performance issues in code and creates merge-ready pull requests.                                                                         |
 | [PunkSPIDER](https://www.punkspider.org)                                                           | Web application vulnerability search engine.                                                                                                               |
 | [Vulert](https://www.vulert.com)                                                                   | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more. |
-| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,807 \| 🐛 162 \| 🌐 HTML \| 📅 2026-07-13     | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
+| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,808 \| 🐛 162 \| 🌐 HTML \| 📅 2026-09-03     | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
 | [Sonarqube](https://www.sonarqube.org/)                                                            | Static code reviewer.                                                                                                                                      |
 | [Stellastra](https://stellastra.com/email-deliverability-check)                                    | Email authentication and security issues scanner.                                                                                                          |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)                                                | Network packet analysis tool.                                                                                                                              |
@@ -195,4 +195,4 @@ List links and description
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

@@ -168,7 +168,7 @@
             "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2165,
+            "stars": 2167,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:21:56Z",
-            "open_issues": 291,
+            "last_commit": "2026-09-02T21:30:57Z",
+            "open_issues": 296,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14717,
+            "stars": 14732,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9915,
+            "stars": 9934,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -257,11 +257,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-13T02:47:39Z",
+            "last_commit": "2026-09-03T05:20:30Z",
             "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8807,
+            "stars": 8808,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:04:42.341Z",
+    "last_updated": "2026-09-03T07:08:56.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
