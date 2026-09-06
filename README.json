@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6547,
+            "stars": 6546,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -60,8 +60,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:24:32Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-06T04:20:30Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 42,
@@ -207,10 +207,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-04T14:54:21Z",
-            "open_issues": 294,
+            "open_issues": 295,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14765,
+            "stars": 14770,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 82,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9948,
+            "stars": 9958,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -257,11 +257,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T05:03:23Z",
+            "last_commit": "2026-09-06T04:30:12Z",
             "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8810,
+            "stars": 8812,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:55:09.588Z",
+    "last_updated": "2026-09-06T07:06:11.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
