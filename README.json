@@ -164,11 +164,11 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T02:42:31Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-10T13:43:50Z",
+            "open_issues": 6,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2171,
+            "stars": 2172,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:15:48Z",
+            "last_commit": "2026-09-10T15:35:34Z",
             "open_issues": 301,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14806,
+            "stars": 14818,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -237,10 +237,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2025-06-23T04:18:18Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9983,
+            "stars": 9996,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -257,11 +257,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T02:22:23Z",
+            "last_commit": "2026-09-10T13:02:31Z",
             "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8820,
+            "stars": 8822,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:16:56.013Z",
+    "last_updated": "2026-09-11T07:15:38.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
