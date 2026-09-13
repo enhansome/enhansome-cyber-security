@@ -164,8 +164,8 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T09:59:12Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-12T08:32:52Z",
+            "open_issues": 5,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
             "stars": 2172,
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:55:31Z",
+            "last_commit": "2026-09-12T07:28:21Z",
             "open_issues": 301,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14825,
+            "stars": 14827,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 84,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10005,
+            "stars": 10010,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -257,11 +257,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T03:48:39Z",
+            "last_commit": "2026-09-12T16:37:10Z",
             "open_issues": 162,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8830,
+            "stars": 8835,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:07:54.228Z",
+    "last_updated": "2026-09-13T07:26:41.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -406,7 +406,7 @@
       "open_issues": 16,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1944,
+      "stars": 1945,
       "topics": [
         "certification",
         "cyber-security",
