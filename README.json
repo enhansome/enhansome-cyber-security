@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6546,
+            "stars": 6545,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2176,
+            "stars": 2177,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:10:24Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-16T14:32:55Z",
+            "open_issues": 292,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14863,
+            "stars": 14874,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 85,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10062,
+            "stars": 10088,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -258,10 +258,10 @@
             "language": "HTML",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T13:53:27Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8838,
+            "stars": 8841,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -299,7 +299,7 @@
             "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1712,
+            "stars": 1713,
             "topics": [
               "api-gateway",
               "api-security",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:39:43.147Z",
+    "last_updated": "2026-09-17T07:36:05.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
