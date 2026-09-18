@@ -60,11 +60,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:13:52Z",
+            "last_commit": "2026-09-17T21:59:26Z",
             "open_issues": 19,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "appsec",
               "ctf",
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -207,10 +207,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-16T14:32:55Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14874,
+            "stars": 14890,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 85,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10088,
+            "stars": 10107,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -258,10 +258,10 @@
             "language": "HTML",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T13:53:27Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8841,
+            "stars": 8844,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -299,7 +299,7 @@
             "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "api-gateway",
               "api-security",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:36:05.879Z",
+    "last_updated": "2026-09-18T07:22:38.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
