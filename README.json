@@ -60,8 +60,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:59:26Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T22:36:05Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -168,7 +168,7 @@
             "open_issues": 5,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2178,
+            "stars": 2180,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:32:55Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-18T14:54:18Z",
+            "open_issues": 295,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14890,
+            "stars": 14900,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -240,7 +240,7 @@
             "open_issues": 85,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10107,
+            "stars": 10119,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -261,7 +261,7 @@
             "open_issues": 164,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8844,
+            "stars": 8848,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -299,7 +299,7 @@
             "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1714,
+            "stars": 1713,
             "topics": [
               "api-gateway",
               "api-security",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:22:38.347Z",
+    "last_updated": "2026-09-19T07:18:37.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -406,7 +406,7 @@
       "open_issues": 16,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1948,
+      "stars": 1952,
       "topics": [
         "certification",
         "cyber-security",
