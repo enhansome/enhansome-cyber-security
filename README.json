@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6545,
+            "stars": 6544,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -60,8 +60,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T07:36:50Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-20T19:59:27Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -164,11 +164,11 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T10:34:06Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-21T07:45:49Z",
+            "open_issues": 4,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2180,
+            "stars": 2181,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -210,7 +210,7 @@
             "open_issues": 295,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14908,
+            "stars": 14915,
             "topics": [
               "attacks-prevention",
               "detection",
@@ -237,10 +237,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2025-06-23T04:18:18Z",
-            "open_issues": 85,
+            "open_issues": 84,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10131,
+            "stars": 10138,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -261,7 +261,7 @@
             "open_issues": 164,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8848,
+            "stars": 8850,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -295,7 +295,7 @@
             "id": 538093499,
             "language": "Shell",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-06T11:42:29Z",
+            "last_commit": "2026-09-20T15:22:26Z",
             "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:43:11.883Z",
+    "last_updated": "2026-09-21T07:55:54.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -406,7 +406,7 @@
       "open_issues": 16,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1952,
+      "stars": 1953,
       "topics": [
         "certification",
         "cyber-security",
