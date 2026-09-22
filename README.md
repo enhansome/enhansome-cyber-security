@@ -1,12 +1,12 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,354 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,755 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,872 | 🐛 337 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
+Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,877 | 🐛 339 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
 
-Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) ⭐ 1,953 | 🐛 16 | 📅 2026-08-20. You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) ⭐ 1,954 | 🐛 16 | 📅 2026-08-20. You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
 List links and description
 
@@ -103,7 +103,7 @@ List links and description
 | [Trailofbits Github](https://trailofbits.github.io/ctf/)                                                               | CTF Field Guide                                                                                                                                        |
 | [Shellter](https://shellterlabs.com)                                                                                   | Social Network focused on information security                                                                                                         |
 | [CyberPython](https://pythoncyber.go.ro)                                                                               | Practical cyber security challenges with own research                                                                                                  |
-| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 45 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-20      | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
+| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 45 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-21      | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
 
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 
@@ -127,15 +127,15 @@ List links and description
 
 ### <a name="courses"></a>Courses and Guides Sites
 
-| Link                                                                                                          | Description                                                                                |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Cybrary](https://www.cybrary.it/)                                                                            | Free and Open Source Cyber Security Learning                                               |
-| [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) ⚠️ Archived                             | \[PT-BR] Safe Development Guide                                                            |
-| [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/)                                              | Website with guides and a Free Ethical Hacking Course                                      |
-| [PortSwigger Labs](https://portswigger.net/web-security)                                                      | Free learning resources focused on web and API security only                               |
-| [DarkRelay Security Labs](https://darkrelay.com/training)                                                     | Free & paid cybersecurity trainings with certifications                                    |
-| [LabEx](https://labex.io/skilltrees/cybersecurity)                                                            | Free & paid cybersecurity hands-on labs                                                    |
-| [Offensive CyberSec Cheat Sheet](https://github.com/AmitR12/Cybersec) ⭐ 9 \| 🐛 0 \| 🌐 HTML \| 📅 2026-08-19 | A comprehensive and accessible cheat sheet for offensive cybersecurity commands and tools. |
+| Link                                                                                                           | Description                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Cybrary](https://www.cybrary.it/)                                                                             | Free and Open Source Cyber Security Learning                                               |
+| [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) ⚠️ Archived                              | \[PT-BR] Safe Development Guide                                                            |
+| [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/)                                               | Website with guides and a Free Ethical Hacking Course                                      |
+| [PortSwigger Labs](https://portswigger.net/web-security)                                                       | Free learning resources focused on web and API security only                               |
+| [DarkRelay Security Labs](https://darkrelay.com/training)                                                      | Free & paid cybersecurity trainings with certifications                                    |
+| [LabEx](https://labex.io/skilltrees/cybersecurity)                                                             | Free & paid cybersecurity hands-on labs                                                    |
+| [Offensive CyberSec Cheat Sheet](https://github.com/AmitR12/Cybersec) ⭐ 10 \| 🐛 0 \| 🌐 HTML \| 📅 2026-08-19 | A comprehensive and accessible cheat sheet for offensive cybersecurity commands and tools. |
 
 ### <a name="os"></a>OS - Operation Systens
 
@@ -155,13 +155,13 @@ List links and description
 
 | Link                                                                                                | Description                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,181 \| 🐛 4 \| 🌐 Go \| 📅 2026-09-21    | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
+| [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,182 \| 🐛 4 \| 🌐 Go \| 📅 2026-09-21    | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
 | [CrackStation](https://crackstation.net/)                                                           | Uses lookup tables to crack password hashes.                                                                                                               |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,915 \| 🐛 295 \| 🌐 Go \| 📅 2026-09-18  | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 14,926 \| 🐛 297 \| 🌐 Go \| 📅 2026-09-18  | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                              | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                   | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                   | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,138 \| 🐛 84 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,144 \| 🐛 84 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                      | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                        | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                 | Pentesting framework used by Kali Linux.                                                                                                                   |
@@ -173,7 +173,7 @@ List links and description
 | [Pixee](https://pixee.ai)                                                                           | Finds security & performance issues in code and creates merge-ready pull requests.                                                                         |
 | [PunkSPIDER](https://www.punkspider.org)                                                            | Web application vulnerability search engine.                                                                                                               |
 | [Vulert](https://www.vulert.com)                                                                    | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more. |
-| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,850 \| 🐛 164 \| 🌐 HTML \| 📅 2026-09-15      | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
+| [rengine](https://github.com/yogeshojha/rengine) ⭐ 8,852 \| 🐛 164 \| 🌐 HTML \| 📅 2026-09-21      | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process                        |
 | [Sonarqube](https://www.sonarqube.org/)                                                             | Static code reviewer.                                                                                                                                      |
 | [Stellastra](https://stellastra.com/email-deliverability-check)                                     | Email authentication and security issues scanner.                                                                                                          |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)                                                 | Network packet analysis tool.                                                                                                                              |
@@ -185,7 +185,7 @@ List links and description
 | [zeek2es](https://github.com/corelight/zeek2es) ⭐ 40 \| 🐛 0 \| 🌐 Python \| 📅 2022-08-18          | Converts Zeek logs to Elastic/OpenSearch.                                                                                                                  |
 | [subdomainradar](https://subdomainradar.io)                                                         | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access                               |
 | [leakradar](https://leakradar.io)                                                                   | Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API                                          |
-| [AzureFox](https://github.com/TacoRocket/AzureFox) ⭐ 4 \| 🐛 5 \| 🌐 Python \| 📅 2026-06-22        | Azure attack-path and privilege-chaining CLI for surfacing high-impact paths, usable pivots, and trust boundaries to break.                                |
+| [AzureFox](https://github.com/TacoRocket/AzureFox) ⭐ 5 \| 🐛 5 \| 🌐 Python \| 📅 2026-06-22        | Azure attack-path and privilege-chaining CLI for surfacing high-impact paths, usable pivots, and trust boundaries to break.                                |
 
 ### <a name="books"></a>Books
 
@@ -195,4 +195,4 @@ List links and description
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
