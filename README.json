@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6540,
+            "stars": 6539,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -168,7 +168,7 @@
             "open_issues": 8,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2188,
+            "stars": 2189,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:58:36Z",
-            "open_issues": 298,
+            "last_commit": "2026-10-02T16:50:56Z",
+            "open_issues": 300,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15039,
+            "stars": 15049,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -250,7 +250,7 @@
             "open_issues": 83,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10241,
+            "stars": 10252,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 178,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8869,
+            "stars": 8868,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -309,7 +309,7 @@
             "open_issues": 84,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1713,
+            "stars": 1712,
             "topics": [
               "api-gateway",
               "api-security",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:28:05.054Z",
+    "last_updated": "2026-10-03T04:40:39.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -416,7 +416,7 @@
       "open_issues": 18,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1963,
+      "stars": 1964,
       "topics": [
         "certification",
         "cyber-security",
