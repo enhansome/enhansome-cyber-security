@@ -40,7 +40,7 @@
             "open_issues": 130,
             "owner": "facebookarchive",
             "repo": "fbctf",
-            "stars": 6539,
+            "stars": 6538,
             "topics": [
               "ctf",
               "ctf-framework"
@@ -60,11 +60,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:04:40Z",
+            "last_commit": "2026-10-04T04:22:33Z",
             "open_issues": 16,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "appsec",
               "ctf",
@@ -210,7 +210,7 @@
             "open_issues": 300,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15049,
+            "stars": 15060,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -250,7 +250,7 @@
             "open_issues": 83,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10253,
+            "stars": 10267,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -267,11 +267,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T10:31:09Z",
+            "last_commit": "2026-10-04T04:41:16Z",
             "open_issues": 178,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8868,
+            "stars": 8869,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -306,10 +306,10 @@
             "language": "Shell",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-29T00:51:50Z",
-            "open_issues": 84,
+            "open_issues": 83,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1712,
+            "stars": 1713,
             "topics": [
               "api-gateway",
               "api-security",
@@ -351,7 +351,7 @@
             "open_issues": 0,
             "owner": "corelight",
             "repo": "zeek2es",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "elasticsearch",
               "humio",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:03:21.509Z",
+    "last_updated": "2026-10-04T08:24:34.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
