@@ -64,7 +64,7 @@
             "open_issues": 14,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "appsec",
               "ctf",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-07T22:32:35Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-09T08:39:24Z",
+            "open_issues": 304,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15106,
+            "stars": 15112,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -250,7 +250,7 @@
             "open_issues": 83,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10681,
+            "stars": 10762,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -267,11 +267,11 @@
             "id": 260907244,
             "language": "HTML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T06:17:47Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-08T19:38:21Z",
+            "open_issues": 180,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8871,
+            "stars": 8873,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:54:45.732Z",
+    "last_updated": "2026-10-09T08:58:43.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -416,7 +416,7 @@
       "open_issues": 16,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1966,
+      "stars": 1968,
       "topics": [
         "certification",
         "cyber-security",
