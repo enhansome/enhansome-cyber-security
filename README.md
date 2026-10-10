@@ -1,10 +1,10 @@
 # Awesome Cyber Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,511 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,947 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,955 | 🐛 350 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
+Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,960 | 🐛 350 | 📅 2026-01-11 and [Herman Slatman](https://github.com/hslatman).
 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors). You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
@@ -103,7 +103,7 @@ List links and description
 | [Trailofbits Github](https://trailofbits.github.io/ctf/)                                                               | CTF Field Guide                                                                                                                                        |
 | [Shellter](https://shellterlabs.com)                                                                                   | Social Network focused on information security                                                                                                         |
 | [CyberPython](https://pythoncyber.go.ro)                                                                               | Practical cyber security challenges with own research                                                                                                  |
-| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 51 \| 🐛 14 \| 🌐 TypeScript \| 📅 2026-10-07      | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
+| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 51 \| 🐛 13 \| 🌐 TypeScript \| 📅 2026-10-09      | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`.                                |
 
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 
@@ -157,11 +157,11 @@ List links and description
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,192 \| 🐛 8 \| 🌐 Go \| 📅 2026-10-01    | A secure low code honeypot framework, leveraging AI for System Virtualization.                                                                             |
 | [CrackStation](https://crackstation.net/)                                                           | Uses lookup tables to crack password hashes.                                                                                                               |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,112 \| 🐛 304 \| 🌐 Go \| 📅 2026-10-09  | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,127 \| 🐛 304 \| 🌐 Go \| 📅 2026-10-09  | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.                                                                                       |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)                                              | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily.                                         |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)                                                   | Security audits plugin for Java Web Applications.                                                                                                          |
 | [Ghidra](https://ghidra-sre.org/)                                                                   | NSA reverse engineering tool.                                                                                                                              |
-| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,762 \| 🐛 83 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 10,842 \| 🐛 85 \| 🌐 Java \| 📅 2025-06-23 | Autonomous reverse engineering with Ghidra using Model Context Protocol.                                                                                   |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)                      | Infostealer malware exposure checker.                                                                                                                      |
 | [IPASIS](https://ipasis.com)                                                                        | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation.                                            |
 | [Metasploit Framework](https://www.metasploit.com/)                                                 | Pentesting framework used by Kali Linux.                                                                                                                   |
@@ -177,7 +177,7 @@ List links and description
 | [Sonarqube](https://www.sonarqube.org/)                                                             | Static code reviewer.                                                                                                                                      |
 | [Stellastra](https://stellastra.com/email-deliverability-check)                                     | Email authentication and security issues scanner.                                                                                                          |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)                                                 | Network packet analysis tool.                                                                                                                              |
-| [UUSEC WAF](https://github.com/Safe3/uusec-waf) ⭐ 1,715 \| 🐛 84 \| 🌐 Shell \| 📅 2026-10-07       | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall.                                                              |
+| [UUSEC WAF](https://github.com/Safe3/uusec-waf) ⭐ 1,717 \| 🐛 84 \| 🌐 Shell \| 📅 2026-10-07       | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall.                                                              |
 | [w3af](http://w3af.org/)                                                                            | Web Application Attack and Audit Framework.                                                                                                                |
 | [Wazuh](https://wazuh.com)                                                                          | Security monitoring solution for threat detection and compliance.                                                                                          |
 | [Wireshark](https://www.wireshark.org/)                                                             | Network protocol analyzer.                                                                                                                                 |
@@ -195,4 +195,4 @@ List links and description
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
