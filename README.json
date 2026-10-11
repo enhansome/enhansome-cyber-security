@@ -60,8 +60,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:54:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-11T04:19:27Z",
+            "open_issues": 15,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 51,
@@ -168,7 +168,7 @@
             "open_issues": 8,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2192,
+            "stars": 2193,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -207,10 +207,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-09T14:47:46Z",
-            "open_issues": 304,
+            "open_issues": 305,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15127,
+            "stars": 15139,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -246,11 +246,11 @@
             "id": 953335676,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2025-06-23T04:18:18Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-10T20:08:37Z",
+            "open_issues": 87,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 10842,
+            "stars": 10978,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 180,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8873,
+            "stars": 8874,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:27:15.470Z",
+    "last_updated": "2026-10-11T08:45:37.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
