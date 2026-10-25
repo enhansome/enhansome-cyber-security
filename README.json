@@ -64,7 +64,7 @@
             "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "appsec",
               "ctf",
@@ -164,11 +164,11 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T02:42:42Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-24T22:36:39Z",
+            "open_issues": 11,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2207,
+            "stars": 2209,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -210,7 +210,7 @@
             "open_issues": 302,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15278,
+            "stars": 15301,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -250,7 +250,7 @@
             "open_issues": 94,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11506,
+            "stars": 11524,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 181,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8886,
+            "stars": 8890,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -309,7 +309,7 @@
             "open_issues": 84,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1715,
+            "stars": 1717,
             "topics": [
               "api-gateway",
               "api-security",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:15:17.969Z",
+    "last_updated": "2026-10-25T07:33:07.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
