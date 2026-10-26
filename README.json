@@ -64,7 +64,7 @@
             "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "appsec",
               "ctf",
@@ -168,7 +168,7 @@
             "open_issues": 11,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2209,
+            "stars": 2215,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-23T14:47:49Z",
-            "open_issues": 302,
+            "last_commit": "2026-10-26T04:20:09Z",
+            "open_issues": 303,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15301,
+            "stars": 15314,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -247,10 +247,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T20:08:37Z",
-            "open_issues": 94,
+            "open_issues": 93,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11524,
+            "stars": 11571,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 181,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8890,
+            "stars": 8896,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:33:07.074Z",
+    "last_updated": "2026-10-26T07:45:01.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -413,7 +413,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-20T21:55:17Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
       "stars": 1981,
