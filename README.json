@@ -164,7 +164,7 @@
             "id": 490028114,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T02:42:33Z",
+            "last_commit": "2026-11-14T01:25:10Z",
             "open_issues": 13,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
@@ -206,11 +206,11 @@
             "id": 264154402,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-12T18:06:40Z",
-            "open_issues": 310,
+            "last_commit": "2026-11-14T05:06:46Z",
+            "open_issues": 306,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15582,
+            "stars": 15612,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -247,10 +247,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T20:08:37Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11911,
+            "stars": 11921,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 181,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8937,
+            "stars": 8942,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:28:01.898Z",
+    "last_updated": "2026-11-14T08:55:41.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -416,7 +416,7 @@
       "open_issues": 24,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1982,
+      "stars": 1983,
       "topics": [
         "certification",
         "cyber-security",
