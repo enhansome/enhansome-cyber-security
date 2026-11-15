@@ -168,7 +168,7 @@
             "open_issues": 13,
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2237,
+            "stars": 2238,
             "topics": [
               "acis",
               "agentic-ai-security",
@@ -210,7 +210,7 @@
             "open_issues": 306,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15612,
+            "stars": 15626,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -250,7 +250,7 @@
             "open_issues": 96,
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 11921,
+            "stars": 11938,
             "topics": []
           },
           "first_seen": "2026-08-28T14:19:02.871Z"
@@ -271,7 +271,7 @@
             "open_issues": 181,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8942,
+            "stars": 8943,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -309,7 +309,7 @@
             "open_issues": 85,
             "owner": "Safe3",
             "repo": "uusec-waf",
-            "stars": 1722,
+            "stars": 1723,
             "topics": [
               "api-gateway",
               "api-security",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:55:41.699Z",
+    "last_updated": "2026-11-15T09:17:38.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
@@ -416,7 +416,7 @@
       "open_issues": 24,
       "owner": "fabionoth",
       "repo": "awesome-cyber-security",
-      "stars": 1983,
+      "stars": 1982,
       "topics": [
         "certification",
         "cyber-security",
